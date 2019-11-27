@@ -1,4 +1,4 @@
-# How to run interactive and reproducible Kotlin Jupyter notebooks using Binder:
+# Kotlin for Jupyter Notebooks
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cheptsov/kotlin-jupyter-demo/master?filepath=index.ipynb)
 
